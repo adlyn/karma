@@ -204,6 +204,10 @@ button{
  * Border Radius
  */
 
+.icons {
+	position: relative;
+	right: 20px;
+}
  
 .social .icons >li {
  	border-radius: 1.25em;
